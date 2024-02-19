@@ -1,0 +1,2 @@
+# aesthetics
+Experiments around aesthetics
